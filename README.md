@@ -14,5 +14,5 @@ A research-driven **Crop Disease Diagnosis App** that leverages a lightweight Vi
 - **Frameworks:** .NET Core, Bootstrap
 
 🔗 **Connect With Me**  
-📫 LinkedIn: [www.linkedin.com/in/prapti-g](https://linkedin.com/in/prapti-g)  
-📧 Email: praptig2008@gmail.com
+LinkedIn: [www.linkedin.com/in/prapti-g](https://linkedin.com/in/prapti-g)  
+Email: praptig2008@gmail.com
